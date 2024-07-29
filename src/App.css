@@ -1,0 +1,90 @@
+.app{
+  width: 900px;
+  margin: 0 auto;
+}
+
+.app-header{
+  margin: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(64 183 144);
+}
+
+.app-form{
+  margin-left: 10px;
+  padding: 0 30px;
+  box-shadow: 0px 0px 1px 2px rgb(196, 196, 199);
+}
+
+a:hover{
+  border-bottom: 1px rgb(64 183 144) solid;
+}
+
+.app-header{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.quytrinh{
+  text-decoration: none;
+  margin: 20px 10px;
+}
+
+.txtTieuDe{
+  width: 400px;
+  height: 25px;
+  
+}
+
+.txtLyDo1{
+  width: 400px;
+  height: 50px;
+}
+
+.LoaiXinNghi, .ThoiGian{
+  width: 407px;
+  height: 30px;
+}
+
+.TimeStart, .TimeEnd{
+  width: 403px;
+  height: 30px;
+}
+.txtDiMuon, .txtTongNgayNghi, .txtThongBaoCho, .txtTruongBoPhan{
+  width: 400px;
+  height: 25px;
+}
+
+.add-file{
+  margin-left: 10px;
+  margin-bottom: 20px;
+  padding: 0 30px;
+  box-shadow: 0px 0px 1px 2px rgb(196, 196, 199);
+}
+
+.txtLyDo2{
+  width: 640px;
+  height: 50px;
+  margin-left: 30px;
+}
+
+.txtNguoiPheDuyet{
+  width: 250px;
+  height: 25px;
+  margin-left: 27px;
+}
+
+.checkbox{
+  margin-left: 30px;
+}
+
+.save{
+  margin-left: 20px;
+}
+
+.send{
+  margin: 35px 40px;
+}
